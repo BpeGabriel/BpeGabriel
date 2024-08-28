@@ -1,4 +1,4 @@
-# Oi, me chamo Gabriel Barbosa, e sou uma estudante de Análise e desenvolvimento de sistemas, estou aqui para melhorar e aprender com todos! #
+# Oi, me chamo Gabriel Barbosa,  sou formado em Análise e Desenvolvimento de Sistemas. Estou aqui para melhorar e aprender com todos! #
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/gabriel-barbosa-985681233/))
 
