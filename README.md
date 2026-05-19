@@ -1,1 +1,3 @@
-# Profissional em transição e desenvolvimento na área de Quality Assurance (QA), com experiência prática em testes manuais, validação de funcionalidades, reporte e acompanhamento de bugs junto ao time de desenvolvimento. Conhecimento em automação de testes com Cypress, criação de planos de teste, metodologias ágeis (Scrum/Kanban) e versionamento com Git/GitHub. Busco oportunidade como QA Júnior para contribuir com a qualidade e confiabilidade de produtos digitais.
+# Profissional em transição e desenvolvimento na área de Quality Assurance (QA)
+
+Experiência prática em testes manuais, validação de funcionalidades, reporte e acompanhamento de bugs junto ao time de desenvolvimento. Conhecimento em automação de testes com Cypress, criação de planos de teste, metodologias ágeis (Scrum/Kanban) e versionamento com Git/GitHub. Busco oportunidade como QA Júnior para contribuir com a qualidade e confiabilidade de produtos digitais.
